@@ -11,5 +11,15 @@ background: url('bg.jpg') no-repeat center center fixed;
   margin-right: auto;
   border: 40px;
   text-align: center;
-font-size: 14px;
+font-size: 25px;
+font-family: 'Lobster', cursive;
+}
+
+.pizza{
+  height: 3px;
+}
+
+img{
+  height: 250px;
+  width: 250px;
 }
