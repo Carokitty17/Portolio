@@ -5,3 +5,11 @@ background: url('bg.jpg') no-repeat center center fixed;
   -o-background-size: cover;
   background-size: cover;
 }
+#wrapper {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 40px;
+  text-align: center;
+font-size: 14px;
+}
